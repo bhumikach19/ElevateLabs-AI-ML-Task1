@@ -61,4 +61,3 @@ The notebook performs the following steps:
 - matplotlib >= 3.5.0
 - scikit-learn >= 1.0.0
 - jupyter >= 1.0.0
-- 
